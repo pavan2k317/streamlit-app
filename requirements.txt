@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+numpy
+pandas
+plotly
+pymongo
+bcrypt
+scikit-learn
+statsmodels
